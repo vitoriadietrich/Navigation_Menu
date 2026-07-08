@@ -2,22 +2,22 @@
 
 Um projeto simples de **menu de navegação responsivo com estilo neumorphism** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **navigation bar moderno com efeito neumorphism**, utilizando sombras suaves para um visual elegante.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS (box-shadow, neumorphism)
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Menu de navegação responsivo
 - Estilo neumorphism
 - Design moderno e minimalista
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador 
